@@ -1,5 +1,7 @@
 # Log-Forge Open-Core Launch Playbook
 
+👉 Want the Premium Visual HUD Console Dashboard? Upgrade here: https://logforgemcp.netlify.app
+
 I could not verify the current submission rules of the directories below from this workspace. Before each step, read the target's own contribution or submission page and follow it. The format details below are placeholders.
 
 ## 0. Pre-flight (blocking)
